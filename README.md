@@ -1,6 +1,6 @@
 ### Bienvenid@ a mi perfil 👋
 
-![](URL_DEL_GIF)
+![](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
 ### Tecnologías
 - 💻 Java
