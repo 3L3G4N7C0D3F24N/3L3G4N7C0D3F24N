@@ -29,3 +29,7 @@
 
 ### Gráfico de actividad
 ![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=RomanSoldier0008)
+
+
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=RomanSoldier0008.RomanSoldier0008)
+
