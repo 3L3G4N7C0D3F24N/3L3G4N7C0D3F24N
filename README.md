@@ -1,7 +1,6 @@
 ### Bienvenid@ a mi perfil 👋
 
-<!--
-**RomanSoldier0008/RomanSoldier0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+![](URL_DEL_GIF)
 
 ### Tecnologías
 - 💻 Java
@@ -18,7 +17,7 @@
 - 🅱️ Bootstrap
 - 🌿 Flask
 - 📮 POSTMAN
-- ![Git](https://www.git-scm.com/images/logos/downloads/Git-Icon-1788C.png) Git
+- 🐙 Git
 - 📒 Jupyter Notebook
 
 
