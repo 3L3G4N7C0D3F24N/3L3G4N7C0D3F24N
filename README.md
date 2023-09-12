@@ -27,9 +27,7 @@
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-1000%2B-blue)](https://github.com/RomanSoldier0008)
 
 
-### Gráfico de actividad
-![Gráfico de actividad](https://activity-graph.herokuapp.com/graph?username=RomanSoldier0008)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSoldier&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=RomanSoldier0008.RomanSoldier0008)
-
+![Visitas al perfil](https://img.shields.io/github/followers/RomanSoldier0008?label=Visitas&style=social)
