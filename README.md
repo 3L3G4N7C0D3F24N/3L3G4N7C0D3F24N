@@ -1,8 +1,7 @@
 <h1 align='center'>Welcome to my profile ! <img src='https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif' width='8%'/>
-<br/><br/><img src='file:///C:/Users/Francisco/Desktop/imagenGithub.jpg'/></h1>
+<br/><br/><img src='https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.jpg' width='100%'/></h1>
 <div align='center'>
-  ![]()
-
+<br><br><br><br><br><br><br><br><br><br>
 <h2>Computer Engineering Student<h2/>
 
 ![](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
