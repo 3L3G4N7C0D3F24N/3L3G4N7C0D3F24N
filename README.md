@@ -1,4 +1,4 @@
-### Welcome to my profile👋
+### Welcome to my profile ![](https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif)
 ![](https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzAzXFxcLzE2MTYzMDI1XFxcL3JpY2stYW5kLW1vcnR5LTEwMjR4NTE4LnBuZ1wiLFwid2lkdGhcIjo0NDMsXCJoZWlnaHRcIjoyNDgsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2VcXFwvbm8taW1hZ2UucG5nP2lkPTI2NGEyZGJlMzcwZjJjNjc1ZmNkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImIyNzMxMGRmMmU4MDc5M2E3MGUyZTNmZGZjNDVkNjMzNTYxYmJhNzIifQ==/watch-rick-morty-pull-off-a-violent-space-heist-in-run-the-jewels-new-oh-mama-music-video.png)
 
 ### [ Computer Engineering Student ]
