@@ -1,27 +1,31 @@
-### Welcome to my profile ![](https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif)
-![](https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzAzXFxcLzE2MTYzMDI1XFxcL3JpY2stYW5kLW1vcnR5LTEwMjR4NTE4LnBuZ1wiLFwid2lkdGhcIjo0NDMsXCJoZWlnaHRcIjoyNDgsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2VcXFwvbm8taW1hZ2UucG5nP2lkPTI2NGEyZGJlMzcwZjJjNjc1ZmNkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImIyNzMxMGRmMmU4MDc5M2E3MGUyZTNmZGZjNDVkNjMzNTYxYmJhNzIifQ==/watch-rick-morty-pull-off-a-violent-space-heist-in-run-the-jewels-new-oh-mama-music-video.png)
+<h1 align='center'>Welcome to my profile ! <img src='https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif' width='8%'/>
+<br/><br/><img src='https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzAzXFxcLzE2MTYzMDI1XFxcL3JpY2stYW5kLW1vcnR5LTEwMjR4NTE4LnBuZ1wiLFwid2lkdGhcIjo0NDMsXCJoZWlnaHRcIjoyNDgsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2VcXFwvbm8taW1hZ2UucG5nP2lkPTI2NGEyZGJlMzcwZjJjNjc1ZmNkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImIyNzMxMGRmMmU4MDc5M2E3MGUyZTNmZGZjNDVkNjMzNTYxYmJhNzIifQ==/watch-rick-morty-pull-off-a-violent-space-heist-in-run-the-jewels-new-oh-mama-music-video.png'/></h1>
+<div align='center'>
+  ![]()
 
-### [ Computer Engineering Student ]
+<h2>Computer Engineering Student<h2/>
 
 ![](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
 ### Technologies
-- 💻 Java
-- 🌐 HTML
-- 🚀 JavaScript
-- 📱 React
-- 💻 C#
-- 🎮 Unity
-- 🐍 Python
-- 🐧 Linux
-- 🐘 PostgreSQL
-- 🐬 MySQL
-- 🖌️ CSS
-- 🅱️ Bootstrap
-- 🌿 Flask
-- 📮 POSTMAN
-- 🐙 Git
-- 📒 Jupyter Notebook
+ 💻 Java
+ 🌐 HTML
+ 🚀 JavaScript
+ 📱 React
+ 💻 C#
+ 
+ 🎮 Unity
+ 🐍 Python
+ 🐧 Linux
+ 🐘 PostgreSQL
+ 🐬 MySQL
+ 
+ 🖌️ CSS
+ 🅱️ Bootstrap
+ 🌿 Flask
+ 📮 POSTMAN
+ 🐙 Git
+ 📒 Jupyter Notebook
 
 
 ### Stats
@@ -34,3 +38,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSoldier0008&layout=donut-vertical)](https://github.com/RomanSoldier0008/github-readme-stats)
+
+</div>
