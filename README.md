@@ -39,3 +39,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSoldier0008&layout=donut-vertical)](https://github.com/RomanSoldier0008/github-readme-stats)
 
 </div>
+<h3 align="left">Contact with me:</h3>
+
+<p align="left">
+ <a href="https://discord.gg/RomanSoldier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="50" width="50" /></a>
+ <a href="https://www.instagram.com/francisco__m.s" target="blank"><img align="center" src="https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/Instagram_icon-icons.com_66804.png" height="50" width="50" /></a>
+</p>
