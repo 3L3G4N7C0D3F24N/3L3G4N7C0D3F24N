@@ -1,6 +1,5 @@
 <div align='center'>
 <h1>Welcome to my profile ! <img src='https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif' width='5%'/>
-<br/><br/><img src='https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.jpg' width='100%'/></h1>
 <br><br><br><br><br><br><br><img src='https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/wave-smile.gif'/><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2>Computer Engineering Student<h2/>
 
