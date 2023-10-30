@@ -7,7 +7,6 @@
 
 ![Imagen](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
-![](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
 ### Technologies
  💻 Java
