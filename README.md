@@ -1,7 +1,14 @@
 <div align='center'>
-<h1>Welcome to my profile ! <img src='https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif' width='5%'/>
+ # Welcome to my profile !
+
+![Saludo](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/wave-smile.gif)
+
+## Computer Engineering Student
+
+![Imagen](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
+
+<img src='https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif' width='5%'/>
 <br><img src='https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/wave-smile.gif'/><br><br><br><br><br><br><br><br><br><br><br>
-<h2>Computer Engineering Student<h2/>
 
 ![](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
