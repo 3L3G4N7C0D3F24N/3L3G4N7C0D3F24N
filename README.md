@@ -7,9 +7,6 @@
 
 ![Imagen](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
-<img src='https://media.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif' width='5%'/>
-<br><img src='https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/wave-smile.gif'/><br><br><br><br><br><br><br><br><br><br><br>
-
 ![](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
 ### Technologies
