@@ -9,27 +9,6 @@
 ![Imagen](https://github.com/RomanSoldier0008/RomanSoldier0008/blob/main/imagen.gif)
 
 
-### Technologies
- 💻 Java
- 🌐 HTML
- 🚀 JavaScript
- 📱 React
- 💻 C#
- 
- 🎮 Unity
- 🐍 Python
- 🐧 Linux
- 🐘 PostgreSQL
- 🐬 MySQL
- 
- 🖌️ CSS
- 🅱️ Bootstrap
- 🌿 Flask
- 📮 POSTMAN
- 🐙 Git
- 📒 Jupyter Notebook
-
-
 ### Stats
 ![Visitas al perfil](https://img.shields.io/github/followers/RomanSoldier0008?label=Visitas&style=social)
 [![Seguidores](https://img.shields.io/github/followers/RomanSoldier0008?style=social)](https://github.com/RomanSoldier0008)
