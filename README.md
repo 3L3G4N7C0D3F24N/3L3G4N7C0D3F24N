@@ -1,12 +1,9 @@
 <div align='center'>
  
 ## Welcome to my profile !
-
-![Saludo](https://github.com/3L3G4N7C0D3F24N/3L3G4N7C0D3F24N/blob/main/wave-smile.gif)
-
 ## Computer Engineering Student
 
-![Imagen](https://github.com/3L3G4N7C0D3F24N/3L3G4N7C0D3F24N/blob/main/imagen.gif)
+![Imagen](https://github.com/3L3G4N7C0D3F24N/3L3G4N7C0D3F24N/blob/main/coffee-morning.gif)
 
 
 ### Stats
