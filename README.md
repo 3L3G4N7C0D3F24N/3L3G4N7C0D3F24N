@@ -1,8 +1,6 @@
 <div align='center'>
  
-## Welcome to my profile !
-## Computer Engineering Student
-
+## Software Engineer Student
 ![Imagen](https://github.com/3L3G4N7C0D3F24N/3L3G4N7C0D3F24N/blob/main/coffee-morning.gif)
 
 
