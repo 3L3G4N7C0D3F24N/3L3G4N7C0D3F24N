@@ -10,8 +10,9 @@
 [![Repositorios](https://img.shields.io/badge/Repositorios-10-brightgreen)](https://github.com/3L3G4N7C0D3F24N?tab=repositories)
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-1000%2B-blue)](https://github.com/3L3G4N7C0D3F24N)
 
-// ![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=3L3G4N7C0D3F24N&show_icons=true&theme=highcontrast)
-
+<!--
+![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=3L3G4N7C0D3F24N&show_icons=true&theme=highcontrast)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3L3G4N7C0D3F24N&layout=donut-vertical)](https://github.com/3L3G4N7C0D3F24N/github-readme-stats)
 
