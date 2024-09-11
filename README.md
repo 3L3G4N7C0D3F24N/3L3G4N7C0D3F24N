@@ -7,8 +7,8 @@
 ### Stats
 ![Visitas al perfil](https://img.shields.io/github/followers/3L3G4N7C0D3F24N?label=Visitas&style=social)
 [![Seguidores](https://img.shields.io/github/followers/3L3G4N7C0D3F24N?style=social)](https://github.com/3L3G4N7C0D3F24N)
-[![Repositorios](https://img.shields.io/badge/Repositorios-60-brightgreen)](https://github.com/3L3G4N7C0D3F24N?tab=repositories)
-[![Contribuciones](https://img.shields.io/badge/Contribuciones-1500%2B-blue)](https://github.com/3L3G4N7C0D3F24N)
+[![Repositorios](https://img.shields.io/badge/Repositorios-brightgreen)](https://github.com/3L3G4N7C0D3F24N?tab=repositories)
+[![Contribuciones](https://img.shields.io/badge/Contribuciones%2B-blue)](https://github.com/3L3G4N7C0D3F24N)
 
 
 <!--![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=3L3G4N7C0D3F24N&show_icons=true&theme=highcontrast)
