@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3L3G4N7C0D3F24N&layout=donut-vertical)](https://github.com/3L3G4N7C0D3F24N/github-readme-stats)
 -->
 </div>
-<h3 align="left">Social:</h3>
+<h3 align="left">Social</h3>
 
 <p align="left">
  <a href="https://www.instagram.com/francisco__m.s" target="blank"><img align="center" src="https://github.com/3L3G4N7C0D3F24N/3L3G4N7C0D3F24N/blob/main/Instagram_icon-icons.com_66804.png" height="50" width="50" /></a>
